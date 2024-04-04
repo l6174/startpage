@@ -2,12 +2,12 @@ class Config {
   defaults = {
     overrideStorage: false,
     temperature: {
-      location: 'New York',
+      location: 'Manila',
       scale: 'C'
     },
     clock: {
       format: 'h:i p',
-      iconColor: '#ff7b95'
+      iconColor: '#f38ba8'
     },
     search: {
       engines: {

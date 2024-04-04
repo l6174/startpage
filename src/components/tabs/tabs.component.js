@@ -138,47 +138,47 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(2) {
-          --flavour: #e78a4e;
+          --flavour: #fab387;
       }
 
       .categories ul:nth-child(3) {
-          --flavour: #ea6962;
+          --flavour: #f38ba8;
       }
 
       .categories ul:nth-child(4) {
-          --flavour: #7daea3;
+          --flavour: #89b4fa;
       }
 
       .categories ul:nth-child(5) {
-          --flavour: #d3869b;
+          --flavour: #cba6f7;
       }
 
       .categories ul:nth-child(6) {
-          --flavour: #d3869b;
+          --flavour: #cba6f7;
       }
 
       .categories ul:nth-child(7) {
-          --flavour: #a9b665;
+          --flavour: #a6e3a1;
       }
 
       .categories ul:nth-child(8) {
-          --flavour: #e78a4e;
+          --flavour: #fab387;
       }
 
       .categories ul:nth-child(9) {
-          --flavour: #ea6962;
+          --flavour: #f38ba8;
       }
 
       .categories ul:nth-child(10) {
-          --flavour: #7daea3;
+          --flavour: #89b4fa;
       }
 
       .categories ul:nth-child(11) {
-          --flavour: #d3869b;
+          --flavour: #cba6f7;
       }
 
       .categories ul:nth-child(12) {
-          --flavour: #d3869b;
+          --flavour: #cba6f7;
       }
 
       .categories ul .links {
@@ -204,7 +204,7 @@ class Tabs extends Component {
       }
 
       .categories ul .links a {
-          color: #d4be98;
+          color: #cdd6f4;
           text-decoration: none;
           font: 700 18px 'Roboto', sans-serif;
           transition: all .2s;
@@ -256,13 +256,13 @@ class Tabs extends Component {
       }
 
       .categories .links li:not(:last-child) {
-          box-shadow: 0 1px 0 rgba(212, 190, 152, .25);
+          box-shadow: 0 1px 0 rgba(205, 215, 244, .25);
           padding: 0 0 .5em 0;
           margin-bottom: 1.5em;
       }
 
       .categories .links li h1 {
-          color: #d4be98;
+          color: #cdd6f4;
 	        opacity: 0.5;
           font-size: 13px;
           margin-bottom: 1em;

@@ -48,7 +48,7 @@ class ConfigTab extends Component {
           background: none;
           font: 300 16px 'Roboto', sans-serif;
           letter-spacing: 1px;
-          color: #d4be98;
+          color: #cdd6f4;
           resize: none;
           height: 300px;
           -ms-overflow-style: none;
@@ -56,11 +56,11 @@ class ConfigTab extends Component {
       }
 
       #config textarea:focus {
-          box-shadow: inset 0 -2px #d4be98;
+          box-shadow: inset 0 -2px #cdd6f4;
       }
 
       #config textarea::selection {
-          background: #e78a4e;
+          background: #fab387;
           color: #1e1e2e;
       }
 
@@ -72,7 +72,7 @@ class ConfigTab extends Component {
           background: 0;
           border: 0;
           outline: 0;
-          color: #d4be98;
+          color: #cdd6f4;
           position: absolute;
           right: 40px;
           cursor: pointer;
@@ -89,7 +89,7 @@ class ConfigTab extends Component {
           background: 0;
           border: 0;
           outline: 0;
-          color: #d4be98;
+          color: #cdd6f4;
           position: absolute;
           right: 0;
           cursor: pointer;
