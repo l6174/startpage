@@ -107,7 +107,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-6-mocha.gif",
       categories: [
         {
-          name: "inspiration",
+          name: "social media",
           links: [
             {
               name: "pinterest",
