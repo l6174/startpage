@@ -57,7 +57,7 @@ class Search extends Component {
 
       #search input::selection {
           background: #e78a4e;
-          color: #32302f;
+          color: #1e1e2e;
       }
 
       #search .close {

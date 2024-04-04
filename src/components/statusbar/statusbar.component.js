@@ -78,7 +78,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li:not(:last-child):hover {
-          background: #32302f;
+          background: #1e1e2e;
       }
 
       #tabs ul li:last-child {
@@ -208,7 +208,7 @@ class Statusbar extends Component {
 
       .fastlink {
           border: 0;
-          background: #32302f;
+          background: #1e1e2e;
           color: #a9b665;
           cursor: pointer;
           border-radius: 5px 15px 15px 5px;
