@@ -30,7 +30,7 @@ const default_config = {
   tabs: [
     {
       name: "Myself",
-      background_url: "src/img/banners/cbg-1-mocha.gif",
+      background_url: "src/img/banners/cbg-9.gif",
       categories: [{
         name: "Academics",
         links: [
@@ -39,6 +39,12 @@ const default_config = {
             url: "https://learn.quipper.com/en/todos/active",
             icon: "chalkboard",
             icon_color: "#a6e3a1",
+          },
+          {
+            name: "bible",
+            url: "https://www.bible.com/users/ZachQuita/reading-plans/",
+            icon: "bible",
+            icon_color: "#f0c6c6",
           },
           {
             name: "chatgpt",
@@ -104,7 +110,7 @@ const default_config = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/cbg-6-mocha.gif",
+      background_url: "src/img/banners/bg-2.gif",
       categories: [
         {
           name: "social media",
@@ -198,7 +204,7 @@ const default_config = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/cbg-7.gif",
+      background_url: "src/img/banners/bg-4.gif",
       categories: [
         {
           name: "repositories",

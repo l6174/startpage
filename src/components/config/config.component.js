@@ -25,7 +25,7 @@ class ConfigTab extends Component {
           z-index: 99;
           visibility: hidden;
           top: -100%;
-          backdrop-filter: blur(5px);
+          backdrop-filter: blur(25px);
           transition: all .2s ease-in-out;
       }
 

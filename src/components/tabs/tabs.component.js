@@ -138,11 +138,11 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(2) {
-          --flavour: #fab387;
+          --flavour: #f5bde6;
       }
 
       .categories ul:nth-child(3) {
-          --flavour: #f38ba8;
+          --flavour: #dce0e8;
       }
 
       .categories ul:nth-child(4) {
@@ -244,7 +244,7 @@ class Tabs extends Component {
           left: calc(15% - 42.5px);
           bottom: 0;
           top: 0;
-          background: linear-gradient(to top, rgb(50 48 47 / 90%), transparent);
+          background: linear-gradient(to top, rgb(54 58 79 / 60%), transparent);
           color: var(--flavour);
           letter-spacing: 1px;
           font: 500 30px 'Nunito', sans-serif;
@@ -252,7 +252,7 @@ class Tabs extends Component {
           flex-wrap: wrap;
           word-break: break-all;
           align-items: center;
-          backdrop-filter: blur(3px);
+          backdrop-filter: blur(5px);
       }
 
       .categories .links li:not(:last-child) {
