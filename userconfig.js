@@ -32,7 +32,7 @@ const default_config = {
       name: "Myself",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [{
-        name: "Academics",
+        name: "Productivity",
         links: [
           {
             name: "quipper",
@@ -179,6 +179,12 @@ const default_config = {
               url: "https://anix.to",
               icon: "player-play",
               icon_color: "#74c7ec",
+            },
+            {
+              name: "rym",
+              url: "https://anix.to",
+              icon: "headphones",
+              icon_color: "#cba6f7",
             },
             {
               name: "yt",
