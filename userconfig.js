@@ -13,10 +13,10 @@ const default_config = {
   search: {
     engines: {
       g: ["https://google.com/search?q=", "Google"],
-      d: ["https://duckduckgo.com/html?q=", "DuckDuckGo"],
+      b: ["https://search.brave.com/search?q=", "Brave"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
       r: ["https://www.reddit.com/search/?q=", "Reddit"],
-      p: ["https://www.pinterest.es/search/pins/?q=", "Pinterest"],
+      p: ["https://www.pinterest.ph/search/pins/?q=", "Pinterest"],
     },
   },
   keybindings: {
@@ -117,7 +117,7 @@ const default_config = {
           links: [
             {
               name: "pinterest",
-              url: "https://www.pinterest.es/",
+              url: "https://www.pinterest.ph/",
               icon: "brand-pinterest",
               icon_color: "#f38ba8",
             },
