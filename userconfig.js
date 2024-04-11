@@ -75,8 +75,8 @@ const default_config = {
         name: "japanese",
         links: [
           {
-            name: "takaboto",
-            url: "https://takaboto.jp",
+            name: "takoboto",
+            url: "https://takoboto.jp",
             icon: "book-2",
             icon_color: "#f38ba8",
           },
