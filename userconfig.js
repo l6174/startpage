@@ -147,7 +147,7 @@ const default_config = {
             },
             {
               name: "discord",
-              url: "https://discord.com",
+              url: "https://canary.discord.com",
               icon: "brand-discord",
               icon_color: "#cba6f7",
             },
