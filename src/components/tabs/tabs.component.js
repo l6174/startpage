@@ -212,7 +212,7 @@ class Tabs extends Component {
           align-items: center;
           padding: .4em .7em;
           background: #1e1e2e;
-          // box-shadow: 0 4px rgba(50, 48, 47, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
+          box-shadow: 0 4px rgba(30, 30, 46, 0.5), 0 5px 10px rgb(0 0 0 / 20%);
           border-radius: 2px;
           margin-bottom: .7em;
       }
