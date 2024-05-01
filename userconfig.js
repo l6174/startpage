@@ -104,6 +104,18 @@ const default_config = {
             icon: "news",
             icon_color: "#89b4fa",
           },
+          {
+            name: "children's books",
+            url: "https://japanesebooks.jp/en/tag/%E5%85%90%E7%AB%A5/",
+            icon: "books",
+            icon_color: "#cdd6f4",
+          },
+          {
+            name: "storyweaver",
+            url: "https://storyweaver.org.in/en/search?language=Japanese",
+            icon: "books",
+            icon_color: "#cdd6f4",
+          }
         ],
       },
     ],
