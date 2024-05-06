@@ -89,7 +89,7 @@ const default_config = {
           },
           {
             name: "Catppuccin",
-            url: "https://baileysnyder.com/jconj/",
+            url: "https://catppuccin.com/",
             icon: "color-swatch",
             icon_color: "#f9e2af",
           }
