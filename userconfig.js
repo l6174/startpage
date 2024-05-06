@@ -12,11 +12,11 @@ const default_config = {
   },
   search: {
     engines: {
-      w: ["https://localhost:5000/search?q=", "Whoogle"],
+      w: ["http://localhost:5000/search?q=", "Whoogle"],
       g: ["https://google.com/search?q=", "Google"],
       b: ["https://search.brave.com/search?q=", "Brave"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
-      r: ["https://www.reddit.com/search/?q=", "Reddit"],
+      r: ["https://www.reddit.com/r/", "Reddit"],
       p: ["https://www.pinterest.ph/search/pins/?q=", "Pinterest"],
     },
   },
@@ -98,7 +98,7 @@ const default_config = {
     ],
     },
     {
-      name: "leisure",
+      name: "chill",
       background_url: "src/img/banners/bg-5.gif",
       categories: [
         {
