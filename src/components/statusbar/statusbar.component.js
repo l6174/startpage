@@ -24,7 +24,7 @@ class Statusbar extends Component {
 
   imports() {
     return [
-      this.resources.fonts.roboto,
+      this.resources.fonts.overpass,
       this.resources.icons.material,
       this.resources.libs.awoo,
     ];

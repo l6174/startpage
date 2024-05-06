@@ -30,7 +30,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "personal",
+      name: "myself",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [{
         name: "Productivity",
@@ -62,7 +62,7 @@ const default_config = {
           {
             name: "Sheets",
             url: "https://sheets.google.com",
-            icon: "file-spreadsheets",
+            icon: "file-spreadsheet",
             icon_color: "#a6e3a1",
           }
         ],
@@ -156,7 +156,7 @@ const default_config = {
       ],
     },
     {
-      name: "Development",
+      name: "Dev",
       background_url: "src/img/banners/bg-4.gif",
       categories: [
         {

@@ -73,7 +73,7 @@ class Tabs extends Component {
     return [
       this.resources.icons.material,
       this.resources.icons.tabler,
-      this.resources.fonts.roboto,
+      this.resources.fonts.overpass,
       this.resources.fonts.raleway,
       this.resources.libs.awoo,
     ];
@@ -206,7 +206,7 @@ class Tabs extends Component {
       .categories ul .links a {
           color: #cdd6f4;
           text-decoration: none;
-          font: 700 18px 'Roboto', sans-serif;
+          font: 700 18px 'Overpass', sans-serif;
           transition: all .2s;
           display: inline-flex;
           align-items: center;

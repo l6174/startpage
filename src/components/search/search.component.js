@@ -46,7 +46,7 @@ class Search extends Component {
           box-shadow: inset 0 -2px #737373;
           padding: .5em 0;
           background: none;
-          font: 500 22px 'Roboto', sans-serif;
+          font: 500 22px 'Overpass', sans-serif;
           letter-spacing: 1px;
           color: #cdd6f4;
       }
@@ -90,7 +90,7 @@ class Search extends Component {
           cursor: default;
           transition: all .2s;
           font-size: 12px;
-          font-family: 'Roboto', sans-serif;
+          font-family: 'Overpass', sans-serif;
       }
 
       .search-engines li {
@@ -106,7 +106,7 @@ class Search extends Component {
 
   imports() {
     return [
-      this.resources.fonts.roboto,
+      this.resources.fonts.overpass,
       this.resources.icons.material
     ];
   }
@@ -143,7 +143,7 @@ class Search extends Component {
 
     let args = target.value.split(' ');
     let prefix = args[0];
-    let defaultEngine = this.engines['g'][0];
+    let defaultEngine = this.engines['w'][0];
     let engine = defaultEngine;
 
     this.refs.engines.childNodes.forEach(engine => {
