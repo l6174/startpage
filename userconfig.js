@@ -143,13 +143,13 @@ const default_config = {
               name: "Netflix",
               url: "https://netflix.com",
               icon: "brand-netflix",
-              icon_color: "#fab387",
+              icon_color: "#eba0ac",
             },
             {
               name: "Monkey Type",
               url: "https://monkeytype.com",
               icon: "keyboard",
-              icon_color: "#a6e3a1",
+              icon_color: "#fab387",
             },
             {
               name: "Chess",
