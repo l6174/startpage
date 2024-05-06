@@ -98,7 +98,7 @@ const default_config = {
     ],
     },
     {
-      name: "chill",
+      name: "chi ll",
       background_url: "src/img/banners/bg-5.gif",
       categories: [
         {
@@ -144,6 +144,12 @@ const default_config = {
               url: "https://netflix.com",
               icon: "brand-netflix",
               icon_color: "#fab387",
+            },
+            {
+              name: "Monkey Type",
+              url: "https://monkeytype.com",
+              icon: "keyboard",
+              icon_color: "#a6e3a1",
             },
             {
               name: "Chess",
