@@ -25,7 +25,7 @@ const default_config = {
     "q": "config-tab",
   },
   disabled: [],
-  localIcons: false,
+  localIcons: true,
   fastlink: "https://chatgpt.com/",
   openLastVisitedTab: true,
   tabs: [
