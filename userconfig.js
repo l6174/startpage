@@ -42,9 +42,9 @@ const default_config = {
             icon_color: "#f38ba8",
           },
           {
-            name: "Mail",
-            url: "https://mail.proton.me",
-            icon: "mail",
+            name: "Mail Admin",
+            url: "https://mailadmin.zoho.in/cpanel/home.do#dashboard",
+            icon: "mail-cog",
             icon_color: "#cba6f7",
           },
           {
@@ -64,6 +64,12 @@ const default_config = {
             url: "https://sheets.google.com",
             icon: "file-spreadsheet",
             icon_color: "#a6e3a1",
+          },
+          {
+            name: "NextCloud",
+            url: "https://glubo.is-local.org",
+            icon: "brand-nextcloud",
+            icon_color: "#89b4fa",
           }
         ],
       }, {
