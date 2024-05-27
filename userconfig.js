@@ -42,9 +42,9 @@ const default_config = {
             icon_color: "#f38ba8",
           },
           {
-            name: "Mail Admin",
-            url: "https://mailadmin.zoho.in/cpanel/home.do#dashboard",
-            icon: "mail-cog",
+            name: "Mail",
+            url: "https://mail.proton.me",
+            icon: "mail",
             icon_color: "#cba6f7",
           },
           {
