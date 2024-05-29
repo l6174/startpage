@@ -12,7 +12,7 @@ const default_config = {
   },
   search: {
     engines: {
-      w: ["http://localhost:5000/search?q=", "Whoogle"],
+      w: ["https://search.glubo.is-local.org/search?q=", "Whoogle"],
       g: ["https://google.com/search?q=", "Google"],
       b: ["https://search.brave.com/search?q=", "Brave"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
@@ -243,7 +243,13 @@ const default_config = {
               url: "https://netlify.app",
               icon: "cloud-code",
               icon_color: "#f38ba8",
-            }
+            },
+            {
+              name: "Render",
+              url: "https://dashboard.render.com",
+              icon: "server",
+              icon_color: "#a6e3a1",
+            } 
           ],
         },
       ],
